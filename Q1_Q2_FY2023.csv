@@ -1,34 +1,3 @@
-Visa Subclass - lodged,30/09/20222,31/12/2023
-189 Skilled - Independent,8410,26306
-190 Skilled - Nominated,3841,12158
-489 Skilled - Regional (Provisional),105,77
-491 Skilled Work Regional (Provisional),4870,10056
-887 Skilled - Regional,716,473
-Visa Subclass - granted,,
-189 Skilled - Independent,1762,5919
-190 Skilled - Nominated,4065,11519
-489 Skilled - Regional (Provisional),251,1104
-491 Skilled Work Regional (Provisional),3390,5141
-887 Skilled - Regional,429,556
-Visa Subclass - refused,,
-189 Skilled - Independent,92,20
-190 Skilled - Nominated,92,17
-489 Skilled - Regional (Provisional),5,6
-491 Skilled Work Regional (Provisional),94,10
-887 Skilled - Regional,7,0
-Visa Subclass - onhand,,
-189 Skilled - Independent,19696,39917
-190 Skilled - Nominated,20220,20607
-489 Skilled - Regional (Provisional),4207,3126
-491 Skilled Work Regional (Provisional),26891,29895
-887 Skilled - Regional,19406,19294
-Visa Subclass - snapshots,,
-408 Temporary Activity,"27,797","67,038"
-457 Temporary Work (Skilled),"2,268","1,083"
-462 Work and Holiday,"13,074","18,871"
-482 Temporary Skill Shortage,"103,623","104,236"
-485 Temporary Graduate,"115,029","144,694"
-500 Student,"419,189","456,898"
-600 Visitor,"195,650","300,310"
-601 Electronic Travel Authority,"38,641","90,387"
-Bridging Visas,"369,182","203,494"
+,189 Skilled - Independent - lodged,190 Skilled - Nominated - lodged,489 Skilled - Regional (Provisional) - lodged,491 Skilled Work Regional (Provisional) - lodged,887 Skilled - Regional - lodged,189 Skilled - Independent - granted,190 Skilled - Nominated -granted,489 Skilled - Regional (Provisional) - granted,491 Skilled Work Regional (Provisional) - granted,887 Skilled - Regional - granted,189 Skilled - Independent - refused,190 Skilled - Nominated - refused,489 Skilled - Regional (Provisional) - refused,491 Skilled Work Regional (Provisional) - refused,887 Skilled - Regional - refused,189 Skilled - Independent - onhand,190 Skilled - Nominated - onhand,489 Skilled - Regional (Provisional) - onhand,491 Skilled Work Regional (Provisional) - onhand,887 Skilled - Regional - onhand,408 Temporary Activity - snapshots,457 Temporary Work (Skilled)- snapshots,462 Work and Holiday - snapshots,482 Temporary Skill Shortage - snapshots,485 Temporary Graduate - snapshots,500 Student - snapshots,600 Visitor - snapshots,601 Electronic Travel Authority - snapshots,Bridging Visas - snapshots
+30/09/2022,8410,3841,105,4870,716,1762,4065,251,3390,429,92,92,5,94,7,19696,20220,4207,26891,19406,"27,797","2,268","13,074","103,623","115,029","419,189","195,650","38,641","369,182"
+31/12/2022,26306,12158,77,10056,473,5919,11519,1104,5141,556,20,17,6,10,0,39917,20607,3126,29895,19294,"67,038","1,083","18,871","104,236","144,694","456,898","300,310","90,387","203,494"
